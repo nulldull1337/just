@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <style>
+    .st0{display:none}
+  </style>
+  <switch>
+    <g>
+      <g id="Layer_2">
+        <path d="M337.5 264.5v-51s-43 21-43 81 53 94 97 94 78-24 89-58h-39s-14 26-49 26-80.5-34.5-55-92z" fill="#13a4bb"/>
+        <path d="M380.5 346.5v-116c11 0 93 0 69 87h36c6 0 39-134-138-121v129l33 21z" fill="#000000"/>
+      </g>
+    </g>
+  </switch>
+</svg>
